@@ -9,6 +9,8 @@ layout: default
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3LBTkLsjHGQ" frameborder="0" allowfullscreen></iframe>
 
+[MyMiniFactory](https://www.myminifactory.com/object/3d-print-micro-bit-watch-frame-with-battery-compartment-79577)
+
 ## Demo: Our watch frame
 
 ![Watch Frame](./assets/img/watch-frame.jpg)
