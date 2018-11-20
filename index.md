@@ -4,7 +4,7 @@ layout: default
 
 # Course Outline
 
-## Overview
+## Overview 
 Coding a computer is not all sitting at a keyboard typing. In this hands on workshop we will use the BBC micro:bit and our creativity to make some wearable tech sure to be the fashion forward accessory of the year. The BBC micro:bit is a tiny programmable computer packed with a display, accelerometer, compass and more. Using Microsoft MakeCode a block based development environment we will learn some basic computer science skills while having fun making some custom creations with our micro:bit computer.  
 
 ## Take Home Item
