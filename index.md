@@ -10,7 +10,7 @@ Coding a computer is not all sitting at a keyboard typing. In this hands on work
 ## Take Home Item
 BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 
-![Watch Assembled](./assets/img/watch-assembled.jpg)
+![Watch Assembled](./assets/img/20171210_144854.jpg)
 
 ## Day 1 - Saturday 12/9
 
