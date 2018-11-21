@@ -14,7 +14,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 
 ## Day 1 - Saturday 12/8
 
-1. **9:00 AM to 10:00 AM:** Career Panel
+1. **9:00 AM to 10:00 AM:** Welcome
 1. **10:00 AM to Noon:** Intro & Algorithms
     1. [Warmup](./010201_Warmup.html)
     1. [micro:bit Hardware](./010202_HardwareOverview.html)
@@ -32,7 +32,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
     1. [Overview](./010601_Conditionals.html)
     1. [Rock, paper, scissors](./010602_RockPaperScissors.html)
     1. [micro:bit iPod Challenge](./010603_iPod.html)
-1. **4:00 PM to 4:30 PM:** Day 1 Standup
+1. **4:00 PM to 4:45 PM:** Day 1 Standup
 
 ## Day 2 - Sunday 12/9
 1. **9:00 AM to 10:00 PM:** Iteration, Looping & Coordinates
@@ -54,7 +54,8 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
     1. [Pedometer Challenge](./020403_Pedometer.html)
     1. [Stop Watch Challenge](./020404_Stopwatch.html)
     1. [Compass Challenge](./020405_Compass.html)
-1. **3:00 PM to 3:30 PM:** Day 2 Standup
+1. **3:00 PM to 3:45 PM:** Day 2 Standup
+1. **3:45 PM to 4:10 PM:** Tech Fair Setkup
 
 ## Bonus
 [micro:bit Binary Telegraph](./020405_Telegraph.html)
