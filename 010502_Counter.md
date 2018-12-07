@@ -8,7 +8,7 @@ layout: default
 ## Pseudocode
 
 * Declare and Initialize a variable `counter` to zero.
-* When the A button is pressed incrament our varable by one and display a + sign and clear the screen.
+* When the A button is pressed increment our varable by one and display a + sign and clear the screen.
 * When the B button is pressed decrement our varable by one and display a - sign and clear the screen.
 * When the micro:bit is shaken display the current value for 1 second and then clear the screen.
 
