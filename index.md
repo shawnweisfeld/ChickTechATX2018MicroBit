@@ -55,7 +55,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
     1. [Stop Watch Challenge](./020404_Stopwatch.html)
     1. [Compass Challenge](./020405_Compass.html)
 1. **3:00 PM to 3:45 PM:** Day 2 Standup
-1. **3:45 PM to 4:10 PM:** Tech Fair Setkup
+1. **3:45 PM to 4:10 PM:** Tech Fair Setup
 
 ## Bonus
 [micro:bit Binary Telegraph](./020405_Telegraph.html)
