@@ -49,8 +49,8 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
     1. [Magic 8 Ball](./020303_8Ball.html)
 1. **Noon to 1:00 PM:** Lunch    
 1. **1:00 PM to 3:00 PM:** Watch
-    1. [Watch Software](./020401_Watch.html)
     1. [Watch Assembly](./020402_Assembly.html)
+    1. [Watch Software](./020401_Watch.html)
     1. [Pedometer Challenge](./020403_Pedometer.html)
     1. [Stop Watch Challenge](./020404_Stopwatch.html)
     1. [Compass Challenge](./020405_Compass.html)
